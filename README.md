@@ -65,6 +65,7 @@ jianshu_username: e71990ada2fd  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
+
 ```
 
 Jekyll官方网站还有很多的参数可以调，比如设置文章的链接形式...网址在这里：[Jekyll - Official Site](http://jekyllrb.com/) 中文版的在这里：[Jekyll中文](http://jekyllcn.com/).
